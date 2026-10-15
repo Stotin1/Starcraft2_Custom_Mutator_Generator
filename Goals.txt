@@ -1,0 +1,9 @@
+Website::
+
+Buttons for common presets
+
+Select number/range of mutators or unlimited
+
+whitelist/blacklist of maps
+whitelist/blacklist of mutators
+whitelist/blacklist of commanders
